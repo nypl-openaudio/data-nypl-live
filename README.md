@@ -5,6 +5,16 @@ This repository contains all the materials contributed by [LIVE from The NYPL](h
 ## Usage
 Use of these materials is restricted to participants of Open Audio Weekend during that two day event. Please direct any questions to [togetherwelisten@nypl.org](mailto:togetherwelisten@nypl.org).
 
+## Git Instructions
+To pull the audio files you will need to install [git-lfs](https://git-lfs.github.com/)
+
+```
+brew install git-lfs
+# clone the repo as you would normally do
+# enter directory
+git lfs pull
+```
+
 ## The Collection Description
 [LIVE from the NYPL](http://www.nypl.org/events/live-nypl) is [The New York Public Library](http://www.nypl.org/)'s flagship ticketed event series, offering programs that are as unique and engaging as the Library itself, and embody the institution's mission to educate, inform, and inspire the diverse community it serves in New York and beyond. Under the direction of Paul Holdengräber since it launched in 2005, LIVE's provocative conversations, real debates, irresistible performances and original experiences are exercises in cognitive theater designed to stimulate cultural curiosity. During its Fall and Spring seasons, LIVE welcomes to its stage the literary icons, groundbreaking artists, creative filmmakers, notable historians, influential leaders and emerging tastemakers who are shaping the world today.
 
